@@ -1,0 +1,7 @@
+2026-05-01 10:15:22 INFO 192.168.1.10 user=admin action=login_success
+2026-05-01 10:16:02 WARNING 45.91.23.10 user=root action=login_failed
+2026-05-01 10:16:20 WARNING 45.91.23.10 user=root action=login_failed
+2026-05-01 10:16:41 WARNING 45.91.23.10 user=root action=login_failed
+2026-05-01 10:17:05 ERROR 45.91.23.10 user=root action=login_failed
+2026-05-01 10:18:12 INFO 192.168.1.20 user=valerii action=file_opened
+2026-05-01 10:19:30 CRITICAL 185.22.11.9 user=unknown action=unauthorized_access
